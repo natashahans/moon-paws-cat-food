@@ -116,39 +116,39 @@ a:hover {
 }
 
 .section-products #product-1 .part-1::before {
-    background: url("Cat\ food/friskies.png") no-repeat center;
+    background: url("friskies.png") no-repeat center;
     background-size: cover;
 		transition: all 0.3s;
 }
 
 .section-products #product-2 .part-1::before {
-    background: url("Cat\ food/meow mix.png") no-repeat center;
+    background: url("meow mix.png") no-repeat center;
     background-size: cover;
 }
 
 .section-products #product-3 .part-1::before {
-    background: url("Cat\ food/9 lives.png") no-repeat center;
+    background: url("9 lives.png") no-repeat center;
     background-size: cover;
 }
 
 .section-products #product-4 .part-1::before {
-    background: url("Cat\ food/gravy.png") no-repeat center;
+    background: url("gravy.png") no-repeat center;
     background-size: cover;
 }
 .section-products #product-5 .part-1::before {
-    background: url("Cat\ food/kit-and-kaboodle.png") no-repeat center;
+    background: url("kit-and-kaboodle.png") no-repeat center;
     background-size: cover;
 }
 .section-products #product-6 .part-1::before {
-    background: url("Cat\ food/meow-mix-dry.png") no-repeat center;
+    background: url("meow-mix-dry.png") no-repeat center;
     background-size: cover;
 }
 .section-products #product-7 .part-1::before {
-    background: url("Cat\ food/purina-friskies.png") no-repeat center;
+    background: url("purina-friskies.png") no-repeat center;
     background-size: cover;
 }
 .section-products #product-8 .part-1::before {
-    background: url("Cat\ food/fancy-feast.png") no-repeat center;
+    background: url("fancy-feast.png") no-repeat center;
     background-size: cover;
 }
 
